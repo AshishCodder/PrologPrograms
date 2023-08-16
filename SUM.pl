@@ -1,0 +1,1 @@
+sum(a,b):-s is a+b,write('SUm Is :: '),write(s).

@@ -1,0 +1,1 @@
+list([X|TAIL]):-write('head',X,TAIL).
